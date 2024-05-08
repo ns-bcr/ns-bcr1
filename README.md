@@ -12,6 +12,8 @@
  
  🌱 I’m currently learning **C# **and** React**
 
+ 📫 How to reach me: mrns.bcr@gmail.com
+
  </div>
  
 <div align="center"> 
@@ -25,10 +27,12 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages/Framework/Tools ⚒️</h2>
+<h2 align="center">⚒️ My Languages/Framework/Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,python,java,javascript,php,arduino,c" />
+</div>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,phpstorm,idea,webstorm,pycharm,clion" /><br>
 </div>
 
@@ -45,7 +49,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ My Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
