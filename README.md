@@ -30,7 +30,7 @@
 <h2 align="center">⚒️ My Languages/Framework/Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,python,java,javascript,php,arduino,c" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,java,javascript,php,arduino" />
 </div>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,phpstorm,idea,webstorm,pycharm,clion" /><br>
